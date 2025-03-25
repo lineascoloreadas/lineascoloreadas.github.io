@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset "utf-8">
+	<title> Sucesos paranormales </title>
+	<link rel="stylesheet" href="estilo.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bokor&family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bokor&family=Lacquer&family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bokor&family=Lacquer&family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Special+Elite&display=swap" rel="stylesheet">
+
+</head>
+<body><div class="box caja1">
+	                  
+	<h1> SUCESOS PARANORMALES </h1>
+
+	
+	
+
+
+	<h3>Esta página está dedicada para explicar qué es un suceso paranormal, 
+</br>
+	ver algunos y puntuar los mas importantes.</h3>
+
+
+	<center><div class="box caja3"><img width="775" height="100" alt="texto alternativo de la imagen es un gif de los fantasmas de pacman" src="pacman.gif"/></div></center>
+
+
+	<p>Paranormal es un adjetivo que  se usa para calificar a aquel suceso que no puede ser explicado por la ciencia.
+</br> 
+	La disciplina que se encarga de analizar estos fenómenos recibe el nombre de parapsicología.
+
+</p>
+	<p> Los sucesos paranormales no encuentran explicación en las teorías de la biología, la medicina o la física.
+</br> 
+	Por lo tanto, se consideran como fenómenos fuera de lo normal, ya que su aceptación como real obligaría a modificar y actualizar las teorías de estas ciencias.</p>
+
+	
+	<div class="box caja4"></div> 
+
+	<h2> Casos paranormales </h2> 
+ 	<p>A continuación se relatan dos de los fenómenos paranormales más destacados del siglo XX.
+</br>	Es importante aclarar que muchas personas niegan rotundamente la veracidad de los hechos, ya que no existen pruebas irrefutables de su autenticidad, o que al menos no han sido expuestas.</p>
+
+	<a href="Las caras de Belmez.html">Pincha aquí para ir a Las caras de Belmez</a>
+</br>
+	<a href="La maldición del camping de Bolnuevo.html">Pincha aquí para ir a La maldición del camping de Bolnuevo</a>
+
+
+        <h2>Casos paranormales internacionalmente</h2>
+	<p>Voy a hablar de casos paranormales que han ocurrido fuera de España</p>	
+
+
+	<a href="Habitación 428.html">Pincha aquí para ir a Habitación 428</a>
+</br>
+	<a href="La Casa de Amityville.html">Pincha aquí para ir a La Casa de Amityville </a> 
+</br>
+	<a href="El incidente de Dyatlov Pass.html">Pincha aquí para ir a El incidente de Dyatlov Pass </a>
+	
+</br>
+	<a href="El Poltergeist de Enfield.html">Pincha aquí para ir a El Poltergeist de Enfield</a>
+</br>
+	<a href="La leyenda de Aokigahara.html">Pincha aquí para ir a La leyenda de Aokigahara</a>
+</br>
+	<a href="El Caso del Poltergeist de Harrisville.html">Pincha aquí para ir a El Caso del Poltergeist de Harrisville</a>
+</br>
+	<h2>Ahora vamos a ver una tabla posicionando los sucesos</h2>
+	<a href="Tabla.html">Pincha aquí para ir a ver la Tabla</a>
+	<p> Esta tabla es simplemente informativa, y está realizada por mi siendo mi opinión, espero que sirva para tener un resumen general de los sucesos y posicionandolos de los mas graves a los menos graves </p>
+	
+	<h2>Ahora voy a poner un formulario para que envieis cualquier duda que tengais</h2>
+	<a href="Formulario.html">Pincha aquí para ir a el Formulario</a>
+	
+
+	<h2>Para terminar tienes una listas de cosas que recomiendo para ir a capturar un suceso paranormal:</h2>
+	<img width="70" alt="texto alternativo de la iagen es un gif de un fantasma" src="fantasma.gif"/>
+
+	<ul>
+		<li>Videocámaras</li>
+		<li>Micrófonos</li>
+		<li>Grabadoras y detectores de movimiento</li>
+		
+	</ul>
+<ol>
+		<li>Pantalla</li>
+		<li>Gafas de visión nocturna</li>
+		<li>Sal</li>
+		
+	</ol>
+	<center><a href="https://youtu.be/y-qn2yxbBjA?si=TBEht7lvIpK80uDc">Pincha aquí para ir a ver un video</a></center>
+	<center><p>Aquí pues ver unos videos sobre sucesos paranormales:</p></center>
+</br>
+	<a href="https://youtu.be/y-qn2yxbBjA?si=TBEht7lvIpK80uDc"><div class="box caja2"></div></a>
+
+</br>
+	<a href="https://youtu.be/-je_fAtcVQga"><div class="box caja5"></div></a>
+</br>
+	
+<center><p>También te recomiendo este video que nos habla sobre algunos casos paranormales:</p></center>
+
+<video src="locos.mp4"
+controls
+muted
+autoplay>
+</video>

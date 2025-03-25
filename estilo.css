@@ -1,0 +1,186 @@
+a{	
+	text-decoration: none;
+	color:rgb(39, 28, 74);
+	
+}
+h1{
+	font-family: Sigmar;
+	font-size: 60px;
+	font-weight: 80px;
+	text-align: center;
+	line-height: 1.5;
+	letter-spacing: 8px;
+	padding: 40px 10px;
+	border: 6px solid white;
+	border-radius: 25px;
+	margin: 20px;
+	background: linear-gradient(rgb(128, 128, 128), rgb(255, 255, 255));
+	color: black;
+}
+h2{
+	font-weight: 30px;
+	font-family: Special Elite;
+	font-size: 20px;
+	text-align: center;
+	line-height: 1.5;
+	letter-spacing: 1px;
+	padding: 20px 10px;
+	border: 6px solid white;
+	border-radius: 25px;
+	margin: 20px;
+	background: linear-gradient(rgb(128, 128, 128), rgb(255, 255, 255));
+	color: black;	
+	
+
+}
+h3{	
+	font-weight: 90;
+	font-family: Special Elite;
+	font-size: 25px;
+	text-align: center;
+	line-height: 1;
+	letter-spacing: 0.5px;
+	padding: 20px 3px;
+	border: 6px solid white;
+	border-radius: 25px;
+	margin: 20px;
+	background: linear-gradient(rgb(141, 149, 151), rgb(255, 255, 255));
+	color: black;	
+	
+}
+h4{
+	font-weight: 90;
+	font-family: Special Elite;
+	font-size: 15px;
+	color: black;
+	text-decoration: underline;
+
+}
+
+.caja1 {
+	margin: auto;
+	padding: 100px;
+  	width: 50vw;
+	background: linear-gradient(rgb(30, 29, 29), rgb(119, 119, 119));
+
+}
+
+body{
+	background-color: #0000;
+	background-size: cover;
+	background-image: url("rosa.jpg");
+	height: 200px;
+	
+
+}
+p{
+	color: rgb(138,135,135);
+	font-weight: 40;
+	font-size: 20px;
+	font-family: Special Elite;
+}
+div {
+
+}
+.caja2 {
+	
+	border: 12px solid rgb(30, 29, 29);
+  	padding: 0.5em;
+	background: rgb(30, 29, 29);
+	border-radius: 30px;
+	margin: auto;
+	width: 300px;
+	height: 200px;
+	background-size: cover;
+	background-image: url("paranormal-1.jpg");
+
+}
+.caja3 {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.caja4 {
+	width: 70vh;
+	height: 70vh;
+	background: black;
+	margin: auto;
+	background-image: url("https://cdn0.salir.com/es/posts/1/4/2/8_series_paranormales_que_tienes_que_conocer_241_600.jpg");
+	box-sizing:border-box;
+	background-size: cover;
+	background-position: right;
+	background-attachment: fixed;
+}
+
+.caja5 {
+	
+	border: 12px solid rgb(30, 29, 29);
+  	padding: 0.5em;
+	background: rgb(30, 29, 29);
+	border-radius: 30px;
+	margin: auto;
+	width: 300px;
+	height: 200px;
+	background-size: cover;
+	background-image: url("hor.gif");
+
+}
+ul{
+	color: black;
+	font-weight: 30;
+	font-family: Special Elite;
+	font-size: 25px;
+}
+ol{
+	color: black;
+	font-weight: 30;
+	font-family: Special Elite;
+	font-size: 25px;
+}
+
+h4{
+	font-weight: 90;
+	font-family: Special Elite;
+	font-size: 18px;
+	color: black;
+
+}
+
+.videos{
+	margin-top: 10%;
+	width: 500px;
+}
+
+h6{
+	font-weight: 90;
+	font-family: Special Elite;
+	font-size: 18px;
+	color: rgb(84, 50, 139);
+
+}
+
+h7{
+	color: rgb(59, 12, 12);
+	font-weight: 40;
+	font-size: 20px;
+	font-family: Special Elite;
+
+}
+
+.fotos{
+	margin-top: 10%;
+	width: 500px;
+}
+.caja17 {
+	
+	border: 12px solid rgb(59, 12, 12);
+  	padding: 0.5em;
+	background: rgb(30, 29, 29);
+	border-radius: 30px;
+	margin: auto;
+	width: 300px;
+	height: 200px;
+	background-size: cover;
+	background-image: url("base.png");
+
+}

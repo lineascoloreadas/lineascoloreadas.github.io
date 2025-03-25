@@ -1,0 +1,29 @@
+<html>
+
+<head>
+	<meta charset "utf-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilo.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+<div class="box caja1">
+	<h1>La leyenda de Aokigahara</h1>
+	<link rel="stylesheet" href="modo.css">
+	<p>Aokigahara (青木ヶ原), también conocido como el Mar de árboles o Bosque de los Suicidios, es un bosque de 35 km² ubicado al noroeste de la base del monte Fuji entre la prefectura de Yamanashi y la de Shizuoka, Japón. 
+	El bosque tiene una asociación histórica con demonios de la mitología japonesa, y hay poemas de 1000 años de antigüedad que indican que el bosque está maldito.El turismo ha quedado limitado únicamente a zonas vigiladas y,
+	aunque no está prohibido adentrarse al bosque, se colocan numerosas señales de advertencia en varios idiomas para ayudar a las personas que piensan en suicidarse a que busquen ayuda.</p>
+	<p>El bosque es conocido por ser un lugar popular para suicidarse. Es el lugar en el que más gente se ha suicidado en Japón y el segundo en el mundo, 
+	después del puente Golden Gate ubicado en San Francisco, Estados Unidos.</p>
+	<p>Se cree que los espíritus de las personas que murieron allí permanecen en el lugar atormentando a las personas y 
+	por eso se cree que se suicidan las personas.
+	Un mito popular sobre el Aokigahara es que los yacimientos de hierro magnético que hay en el lugar hacen que las brújulas y los GPS dejen de funcionar, provocando que los viajeros se pierdan.
+	</p>
+	
+	<img width= "350"alt="es una imagen que nos enseña el bosque" src="ai.jpg"/>
+</br>
+	</br></br><a href="sucesos1.html">Pincha aquí para ir a la pagina anterior </a>

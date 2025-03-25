@@ -1,0 +1,25 @@
+<html>
+
+<head>
+	<meta charset "utf-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilo.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body><div class="box caja1">	
+	<h1>El Poltergeist de Enfield</h1>
+<link rel="stylesheet" href="modo.css">
+	
+
+	<p>Entre 1977 y 1979, una familia en Enfield, Londres experimentó supuestas manifestaciones de un poltergeist.Los incidentes incluyeron muebles moviéndose solos, 
+	voces extrañas y levitaciones de los niños de la casa. Investigadores de lo paranormal documentaron los fenómenos, aunque algunos lo consideraron un engaño. 
+	Este caso inspiró la película "El Conjuro 2". </p>
+	
+
+	<center><img width= "350"alt="es una imagen del suceso en la casa" src="p.jpg"/></center>
+	<center></br></br><a href="sucesos1.html">Pincha aquí para ir a la pagina anterior</a></center>
+</body>

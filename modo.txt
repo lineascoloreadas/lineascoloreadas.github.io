@@ -1,0 +1,100 @@
+a{
+	color:rgb(36, 32, 56);
+	text-decoration: underline;
+	font-size: 20px;
+}
+h1{
+	font-family: Nunito;
+	font-size: 60px;
+	font-weight: 80px;
+	text-align: center;
+	line-height: 1.5;
+	letter-spacing: 0.1px;
+	padding: 40px 10px;
+	border: 6px solid black;
+	border-radius: 25px;
+	margin: 20px;
+	background: linear-gradient(rgb(36, 32, 56), rgb(119, 119, 119));
+	color: black;
+	box-shadow:  10px 10px 10px black;
+
+}
+.caja1 {
+	margin: auto;
+	padding: 100px;
+  	width: 50vw;
+	background: linear-gradient(rgb(78, 63, 81, 77%), rgb(27, 1, 57, 12%));
+
+}
+body{
+	background color: #0000;
+	background-size: cover;
+	background-image: url("https://static.emisorasunidas.com/uploads/2017/10/ghost.jpeg);
+}
+h3{
+	font-family: Nunito;
+	font-size: 60px;
+	font-weight: 80px;
+	text-align: center;
+	line-height: 1.5;
+	letter-spacing: 0.1px;
+	padding: 40px 10px;
+	border: 6px solid black;
+	border-radius: 25px;
+	margin: 20px;
+	background: linear-gradient(rgb(36, 32, 56), rgb(119, 119, 119));
+	color: black;
+	box-shadow:  10px 10px 10px black;
+
+	
+}
+p{
+	color: rgb(218,217,210);
+	font-weight: 40;
+	font-size: 20px;
+	font-family: Special Elite;
+	text-align: justify;
+}
+.caja10 {
+	margin: 5px;
+	display: inline-block;
+	background-attachment: fixed;
+}
+
+.caja11 {
+	color: rgb(218,217,210);
+	font-weight: 40;
+	font-size: 20px;
+	font-family: Special Elite;
+	display: inline-block;
+	width: 20vw;
+	margin-top: -200px;
+	text-align: justify;
+	
+}
+.caja12 {
+	color: rgb(218,217,210);
+	font-weight: 40;
+	font-size: 20px;
+	font-family: Special Elite;
+	display: inline-block;
+	text-align: justify;
+	
+}
+.caja13 {
+	color: rgb(218,217,210);
+	font-weight: 40;
+	font-size: 20px;
+	font-family: Special Elite;
+	display: inline-block;
+	text-align: justify;
+	background: rgb(6 25 61 / 51%);
+	
+}
+
+colgroup {
+  background-color: pink;
+}
+col {
+  background-color:white;
+}

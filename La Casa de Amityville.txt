@@ -1,0 +1,23 @@
+<html>
+
+<head>
+	<meta charset "utf-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilo.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body><div class="box caja1">
+	<h1>La Casa de Amityville</h1>
+<link rel="stylesheet" href="modo.css">
+	<p>Uno de los casos mas famosos.En 1974,Ronald DeFeo Jr. mató a toda su familia en su casa de Amityville,Nueva York. 
+	Un tiempo mas tarde los Lutz se mudaron a esa casa y afirmaron que fueron atormentados por entidades paranormales, con experiencias como leveticaciones, ruidos extranos y visiones demoníacas.
+	Su historia inspiró libros y películas, aunque muchos dudan de la veracidad de los relatos.</p>
+</br>
+	<img width="300" alt=" es una imagen que enseña la casa" src="house.jpeg"
+</br>
+	</br></br><a href="sucesos1.html">Pincha aquí para ir a la pagina anterior </a>
+</body>
